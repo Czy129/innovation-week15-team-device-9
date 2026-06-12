@@ -1,0 +1,89 @@
+# Flutter build artifacts
+build/
+*.dart.js
+*.dart.js.map
+*.dart.js.deps
+*.dart.js.target
+*.dart.bootstrap.js
+*.dart.bootstrap.js.map
+*.dart.bootstrap.js.deps
+*.dart.bootstrap.js.target
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.log
+.gradle/
+local.properties
+*.iml
+.idea/
+*.swp
+*.swo
+.DS_Store
+*.versionsbackup
+
+# iOS
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+Pods/
+
+# Web
+.dart_tool/
+.pub/
+.*.pubspec.lock
+
+# Windows
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vc.db
+*.vc.opendb
+*.vc.cls
+*.VC.db
+*.VC.opendb
+
+# Linux
+*.kdev4
+.swp
+.swo
+
+# macOS
+.DS_Store
+AppleDouble
+#Locks
+.document-id
+.DocumentRevisions-V100
+.FileSync
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.app
+.fseventsd
+.dbfseventsd
+各种缓存
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 隐私文件
+images/android-real-device.jpg
+!.gitkeep
